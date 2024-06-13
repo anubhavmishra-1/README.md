@@ -1,10 +1,11 @@
 # CREATING A TOKEN
 
-This Solidity program is a program that demonstrates the creation of a token in the Solidity programming language. The purpose of this program is to create a token and store the values in the token.
+This Solidity program shows how to create a token using the Solidity programming language. This program's goal is to generate a token and store the values inside of it.
 
 ## Description
 
-This program is a contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has multiple functions for mapping variables, minting and burning values.
+Written in Solidity, a programming language for creating Ethereum blockchain smart contracts, this application is a contract. The contract contains several functions for minting, burning, and mapping variables.
+
 
 ## Getting Started
 
@@ -52,7 +53,7 @@ contract MyToken {
 }
 }
 ```
+Once the code has compiled, select the "Deploy & Run Transactions" tab from the sidebar on the left to start deploying the contract. Click "Deploy" after selecting the "newToken" contract from the dropdown menu.
 
-After the code has been compiled, you may proceed to deploy the contract by navigating to the "Deploy & Run Transactions" tab located in the left-hand sidebar. Select the "newToken" contract from the dropdown menu, and then click the "Deploy" button.
+Once the contract has been successfully deployed, you can communicate with it by using any of its accessible functions.
 
-Upon successful deployment of the contract, you will be able to interact with it by invoking the various functions available.
