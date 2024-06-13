@@ -10,7 +10,7 @@ This program is a contract written in Solidity, a programming language used for 
 
 ### Executing program
 
-
+'''
   // SPDX-License-Identifier: MIT
   pragma solidity 0.8.18;
   contract MyToken {
