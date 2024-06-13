@@ -11,9 +11,9 @@ This program is a contract written in Solidity, a programming language used for 
 ### Executing program
 
 '''
-  // SPDX-License-Identifier: MIT
-  pragma solidity 0.8.18;
-  contract MyToken {
+// SPDX-License-Identifier: MIT
+pragma solidity 0.8.18;
+contract MyToken {
     string public name = "University";
     string public symbol = "Branch";
     uint256 public TotalSupply = 20;
